@@ -1,0 +1,4 @@
+body {background-color: aqua;}
+#container {text-align: center;}
+#button-field {width: 4rem; height: 1.5rem; margin-top: 1rem; border-radius: 1rem; border-color: goldenrod; background-color: silver;}
+#input-field {width: 8rem; height: 1.5rem; border-radius: 0.5rem; text-align: center;}
